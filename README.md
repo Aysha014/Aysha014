@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aysha Akter</h1>
+<p align="center">
+  <img src="./github-banner.png" alt="Aysha Akter - Full Stack Web Developer" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Aysha Akter</h1>
 
 <h3 align="center">💻 Full-Stack Web Developer</h3>
 
