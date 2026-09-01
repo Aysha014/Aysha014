@@ -111,3 +111,38 @@ const aysha = {
     "Building Real-World Applications"
   ]
 };
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aysha014&theme=github-compact&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aysha014&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha014&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Repository Stats & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aysha014&hide_border=true" />
+</p>
+
+---
+
+## 💻 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+</p>
+
+---
