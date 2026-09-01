@@ -1,6 +1,8 @@
 # Hi 👋, I'm Aysha Akter
 
-### Aspiring Full-Stack Web Developer
+### 💻 Aspiring Full-Stack Web Developer
+
+I am currently learning Full-Stack Web Development and building projects to improve my skills.
 
 💻 Aspiring Full-Stack Web Developer
 🌱 I’m currently learning Full-Stack Web Development
@@ -8,6 +10,141 @@
 💻 Working with HTML, CSS, Tailwind CSS, JavaScript, and TypeScript
 🚀 Building projects to improve my development skills
 🎯 My goal is to become a skilled Full-Stack Developer
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts" />
+</p>
+
+- React
+- Node.js
+- TypeScript
+- Full-Stack Web Development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Project One
+
+A short description of your project.
+
+**Technologies:** HTML, CSS, Tailwind CSS, JavaScript
+
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+### ⚛️ React Project
+
+A React project I'm building while learning modern frontend development.
+
+**Technologies:** React, JavaScript, Tailwind CSS
+
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+### 🟢 Node.js Project
+
+A backend project I'm building while learning Node.js.
+
+**Technologies:** Node.js, JavaScript
+
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ A Little More About Me
+
+```javascript
+const aysha = {
+  role: "Aspiring Full-Stack Developer",
+  learning: ["React", "Node.js", "TypeScript"],
+  frontend: ["HTML", "CSS", "Tailwind CSS", "JavaScript"],
+  goal: "Become a skilled Full-Stack Web Developer",
+};
+
+console.log("Learning. Building. Growing. 🚀");
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
