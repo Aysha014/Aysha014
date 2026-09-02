@@ -112,8 +112,5 @@ const aysha = {
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysha014&show_icons=true&locale=en&layout=compact" alt="aysha014" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysha014&show_icons=true&locale=en" alt="aysha014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysha014&" alt="aysha014" /></p>
