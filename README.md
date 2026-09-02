@@ -16,9 +16,6 @@
 - 💻 Full-Stack Web Developer
 - ⚛️ Building modern frontend applications with **React & Next.js**
 - 🎨 Creating responsive and clean interfaces with **Tailwind CSS**
-- ⚙️ Developing backend applications with **Node.js**
-- 🗄️ Working with **MongoDB & Mongoose**
-- 🔐 Implementing authentication with **Better Auth**
 - 🤖 Using **AI-assisted development** to improve development workflows
 - 🚀 Building real-world projects and continuously improving my skills
 
