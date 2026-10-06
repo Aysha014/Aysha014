@@ -29,6 +29,9 @@
 <a href="https://discord.com/users/1292546666741629050" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" width="40" />
 </a>
+<a href="https://www.pinterest.com/freelanceraysha19/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pinterest/pinterest-original.svg" width="40" height="40" />
+</a>
 
 ---
 
