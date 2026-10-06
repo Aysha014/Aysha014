@@ -21,6 +21,17 @@
 
 ---
 
+## 📣 FOLLOW ME ON SOCIALS:
+
+<a href="https://www.linkedin.com/in/aysha-akter-7617a5197/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="https://discord.com/users/1292546666741629050" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" width="40" />
+</a>
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
